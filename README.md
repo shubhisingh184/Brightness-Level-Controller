@@ -1,3 +1,3 @@
 # Brightness-Level-Controller
 
-A simple light controller application, using Elixir and Phoenix LiveView . In this application, we can turn it off, turn it all the way on, or adjust the level of the brightness.
+A brightness controller application, using Elixir and Phoenix LiveView . In this application, we can turn it off, turn it all the way on, or adjust the level of the brightness.
